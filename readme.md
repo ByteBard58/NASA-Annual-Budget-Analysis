@@ -19,7 +19,7 @@ This project analyzes the **annual budget of NASA** from 1959 to 2022, using rea
 ### 1. NASA Annual Budget Dataset
 - **Source**: Our World In Data  
 - **Columns**: `Entity`, `Code`, `Year`, `Annual budget of NASA`  
-- **Unit**: Adjusted to **2010 USD**  
+- **Unit**: Constant **2020 USD**  
 - **Transformed**: Values converted to **Billions** for visualization
 
 ### 2. US Military Defense Budget Dataset
@@ -63,6 +63,6 @@ This project analyzes the **annual budget of NASA** from 1959 to 2022, using rea
 
 ## 😀 Thanks 
 I appreciate your review of this work. I hope you found the overall quality satisfactory.
-Have a great day !
+Have a great day!
 
 **Made by Sakib**
